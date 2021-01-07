@@ -1,4 +1,4 @@
-#include "../liumlib/liumlib.h"
+#include "liumlib.h"
 
 struct __attribute__((packed)) ICMPMessage {
   uint8_t type;
